@@ -60,7 +60,7 @@ const Profile = () => {
 
         </form>
         <img className={`max-w-44 aspect-square rounded-full mx-10 max-sm:mt-10
-         ${selectedImg && 'rounded-full'}`} src={assets.logo_icon} />
+         ${selectedImg && 'rounded-full'}`} src={authUser?.profilePic || assets.logo_icon} />
       </div>
     </div>
   )
