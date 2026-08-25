@@ -14,7 +14,7 @@ QuickChat is a real-time chat web application where users can create an account,
 ## 📸 Preview
 
 
-[![Portfolio Preview](public/preview.png)](https://quick-chat-app-eight.vercel.app/)
+[![Portfolio Preview](client/public/preview.png)](https://quick-chat-app-eight.vercel.app/)
 
 ---
 
